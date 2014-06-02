@@ -16,7 +16,7 @@
 
         <dependency>
             <groupId>lu.snt.smartgrid-topology-generator</groupId>
-            <artifactId>lu.snt.smartgrid.smartgrid-topology-generator</artifactId>
+            <artifactId>lu.snt.smartgrid-topology-generator.model</artifactId>
             <version>${project.version}</version>
         </dependency>
 
