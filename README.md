@@ -5,5 +5,5 @@ These can be used to analyze, simulate, design, compare, and improve smart grid 
 
 Smart Grid Meta-Model
 --------------
-![alt tag](https://raw.github.com/thomashartmann/smartgrid-topology-generator/tree/master/lu.snt.smartgrid-topology-generator.model/meta-model.png)
+![alt tag](/lu.snt.smartgrid-topology-generator.model/meta-model.png)
 
