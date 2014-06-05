@@ -14,3 +14,8 @@ It contains the topological entities as well as the physical communication struc
 The meta-model is central for the generator.
 It defines all concepts and the structural definition of all possible topologies.
 It is used as a template definition to which all generated random topologies the generator produces must conform.
+
+Building
+--------------
+Use Maven to execute the assembly target in the lu.snt.smartgrid-topology-generator.generator module.
+The generator can then be start with java -jar lu.snt.smartgrid.smartgrid-topology-generator-1.0-SNAPSHOT-jar-with-dependencies.jar
