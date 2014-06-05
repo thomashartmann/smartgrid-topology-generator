@@ -18,4 +18,4 @@ It is used as a template definition to which all generated random topologies the
 Building
 --------------
 Use Maven to execute the assembly target in the lu.snt.smartgrid-topology-generator.generator module.
-The generator can then be start with java -jar lu.snt.smartgrid.smartgrid-topology-generator-1.0-SNAPSHOT-jar-with-dependencies.jar
+The generator can then be started with   java -jar lu.snt.smartgrid.smartgrid-topology-generator-1.0-SNAPSHOT-jar-with-dependencies.jar
